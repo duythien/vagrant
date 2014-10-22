@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/duythien/vagrant/ubuntu12.04","disabled":false},"/mydata":{"guestpath":"/mydata","hostpath":"/home/duythien/vagrant/ubuntu12.04/myfolder","disabled":false}}}
